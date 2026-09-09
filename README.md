@@ -33,16 +33,16 @@ Project ini bertujuan untuk:
 
 | EA | Strategi | Referensi | Status |
 |---|---|---|---|
-| **EA01** | Moving Average Crossover | [Antovis Analytics](https://www.youtube.com/watch?v=h8lZCEpiFOI) | Done |
-| **EA02** | Range Breakout | [René Balke](https://www.youtube.com/watch?v=zYTdc0Q1BCs) | Done |
-| **EA03** | RSI Mean Reversion | [Investopedia – RSI](https://www.investopedia.com/terms/r/rsi.asp) | Done |
-| **EA04** | Bollinger Bands Reversal | [Investopedia – Bollinger Bands](https://www.investopedia.com/terms/b/bollingerbands.asp) | ⏳ Belum diuji |
-| **EA05** | MACD Momentum | [Investopedia – MACD](https://www.investopedia.com/terms/m/macd.asp) | ⏳ Belum diuji |
-| **EA06** | Donchian Channel Breakout | [Investopedia – Donchian Channels](https://www.investopedia.com/terms/d/donchianchannels.asp) | ⏳ Belum diuji |
-| **EA07** | EMA + ADX Trend Following | [EMA](https://www.investopedia.com/terms/e/ema.asp) + [ADX](https://www.investopedia.com/terms/a/adx.asp) | ⏳ Belum diuji |
-| **EA08** | Stochastic Reversal | [Investopedia – Stochastic](https://www.investopedia.com/terms/s/stochasticoscillator.asp) | ⏳ Belum diuji |
-| **EA09** | ATR Volatility Breakout | [Investopedia – ATR](https://www.investopedia.com/terms/a/atr.asp) | ⏳ Belum diuji |
-| **EA10** | Ichimoku Trend Following | [Investopedia – Ichimoku](https://www.investopedia.com/terms/i/ichimoku-cloud.asp) | ⏳ Belum diuji |
+| EA01 | Moving Average Crossover | [Antovis Analytics](https://www.youtube.com/watch?v=h8lZCEpiFOI) | Done |
+| EA02 | Range Breakout | [René Balke](https://www.youtube.com/watch?v=zYTdc0Q1BCs) | Done |
+| EA03 | RSI Mean Reversion | The Market Structure Trader | [YouTube](https://www.youtube.com/watch?v=4Y89S50fLds) | Done |
+| EA04 | Bollinger Bands Reversal | René Balke | [YouTube](https://www.youtube.com/watch?v=Z0rQqBUyusk) | ⏳ Belum diuji |
+| EA05 | MACD Momentum | René Balke | [YouTube](https://www.youtube.com/watch?v=ab3JWfkUr-A) | ⏳ Belum diuji |
+| EA06 |  | ... | [YouTube](...) | ⏳ Belum diuji |
+| EA07 |  | ... | [YouTube](...) | ⏳ Belum diuji |
+| EA08 |  | ... | [YouTube](...) | ⏳ Belum diuji |
+| EA09 |  | Breakout Trading Academy | [YouTube](...) | ⏳ Belum diuji |
+| EA10 |  | ... | [YouTube](...) | ⏳ Belum diuji |
 
 ---
 
