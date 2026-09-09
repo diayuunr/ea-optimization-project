@@ -1,4 +1,5 @@
 # Project 1 Mata Kuliah Sains Manajemen — Pengembangan 10 Expert Advisor (EA) dengan AI
+Diayu Nur Aini (24
 
 ## 1. Deskripsi
 
@@ -30,18 +31,18 @@ Project ini bertujuan untuk:
 
 ## 3. Daftar Expert Advisor
 
-| No. | Expert Advisor | Strategi | Sumber / Channel | Link Referensi | Status |
-|---:|---|---|---|---|---|
-| **EA01** | **Moving Average Crossover EA** | Moving Average Crossover | Antovis Analytics | [YouTube](https://www.youtube.com/watch?v=h8lZCEpiFOI) | Dalam pengembangan |
-| **EA02** | **Range Breakout EA** | Range Breakout | René Balke | [YouTube](https://www.youtube.com/watch?v=zYTdc0Q1BCs) | Optimization |
-| EA03 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA04 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA05 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA06 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA07 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA08 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA09 | Belum ditentukan | - | - | - | Belum dibuat |
-| EA10 | Belum ditentukan | - | - | - | Belum dibuat |
+| EA | Strategi | Referensi | Status |
+|---|---|---|---|
+| **EA01** | Moving Average Crossover | [Antovis Analytics](https://www.youtube.com/watch?v=h8lZCEpiFOI) | Done |
+| **EA02** | Range Breakout | [René Balke](https://www.youtube.com/watch?v=zYTdc0Q1BCs) | Done |
+| **EA03** | RSI Mean Reversion | [Investopedia – RSI](https://www.investopedia.com/terms/r/rsi.asp) | Done |
+| **EA04** | Bollinger Bands Reversal | [Investopedia – Bollinger Bands](https://www.investopedia.com/terms/b/bollingerbands.asp) | ⏳ Belum diuji |
+| **EA05** | MACD Momentum | [Investopedia – MACD](https://www.investopedia.com/terms/m/macd.asp) | ⏳ Belum diuji |
+| **EA06** | Donchian Channel Breakout | [Investopedia – Donchian Channels](https://www.investopedia.com/terms/d/donchianchannels.asp) | ⏳ Belum diuji |
+| **EA07** | EMA + ADX Trend Following | [EMA](https://www.investopedia.com/terms/e/ema.asp) + [ADX](https://www.investopedia.com/terms/a/adx.asp) | ⏳ Belum diuji |
+| **EA08** | Stochastic Reversal | [Investopedia – Stochastic](https://www.investopedia.com/terms/s/stochasticoscillator.asp) | ⏳ Belum diuji |
+| **EA09** | ATR Volatility Breakout | [Investopedia – ATR](https://www.investopedia.com/terms/a/atr.asp) | ⏳ Belum diuji |
+| **EA10** | Ichimoku Trend Following | [Investopedia – Ichimoku](https://www.investopedia.com/terms/i/ichimoku-cloud.asp) | ⏳ Belum diuji |
 
 ---
 
@@ -102,57 +103,7 @@ EA dengan profit tinggi tetapi hanya menghasilkan sedikit transaksi atau mengala
 
 ---
 
-## 6. Hasil Sementara
-
-### EA01 — Moving Average Crossover
-
-EA01 menggunakan strategi **Moving Average Crossover** dengan referensi dari Antovis Analytics.
-
-Detail hasil baseline dan optimization akan ditambahkan setelah pengujian selesai.
-
-### EA02 — Range Breakout
-
-EA02 menggunakan strategi **Range Breakout** dengan referensi René Balke.
-
-Baseline awal dilakukan pada:
-
-- Symbol: EURUSD
-- Timeframe: H1
-- Model: Every tick based on real ticks
-- Initial Deposit: USD 10,000
-- Periode: 2021–2025
-
-Hasil baseline awal:
-
-| Metrik | Hasil |
-|---|---:|
-| Net Profit | -$44.71 |
-| Profit Factor | 0.94 |
-| Max Equity Drawdown | 3.79% |
-| Total Trades | 21 |
-| Sharpe Ratio | -0.27 |
-
-Hasil tersebut menunjukkan bahwa konfigurasi awal EA02 belum profitable sehingga dilanjutkan ke tahap optimization.
-
----
-
-## 7. Pengembangan Selanjutnya
-
-Setelah 10 EA selesai dibuat, hasil setiap EA akan dibandingkan dan beberapa EA dengan performa yang paling menjanjikan akan dipilih untuk pengujian lebih lanjut.
-
-Pengembangan berikutnya dapat mencakup:
-
-- optimization parameter yang lebih luas atau lebih terarah,
-- pengujian pada periode dan kondisi pasar yang berbeda,
-- robustness testing,
-- perbandingan antar-strategi,
-- serta evaluasi kembali terhadap risiko overfitting.
-
-Project ini akan terus diperbarui selama semester sesuai dengan perkembangan pengujian dan hasil yang diperoleh.
-
----
-
-## 8. Referensi
+## 6. Referensi
 
 1. Antovis Analytics — *Moving Average Crossover EA mql5 Programming*  
    https://www.youtube.com/watch?v=h8lZCEpiFOI
