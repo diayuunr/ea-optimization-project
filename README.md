@@ -35,14 +35,14 @@ Project ini bertujuan untuk:
 |---|---|---|---|
 | EA01 | Moving Average Crossover | [Antovis Analytics](https://www.youtube.com/watch?v=h8lZCEpiFOI) | Done |
 | EA02 | Range Breakout | [René Balke](https://www.youtube.com/watch?v=zYTdc0Q1BCs) | Done |
-| EA03 | RSI Mean Reversion | The Market Structure Trader | [YouTube](https://www.youtube.com/watch?v=4Y89S50fLds) | Done |
-| EA04 | Bollinger Bands Reversal | René Balke | [YouTube](https://www.youtube.com/watch?v=Z0rQqBUyusk) | ⏳ Belum diuji |
-| EA05 | MACD Momentum | René Balke | [YouTube](https://www.youtube.com/watch?v=ab3JWfkUr-A) | ⏳ Belum diuji |
-| EA06 |  | ... | [YouTube](...) | ⏳ Belum diuji |
-| EA07 |  | ... | [YouTube](...) | ⏳ Belum diuji |
-| EA08 |  | ... | [YouTube](...) | ⏳ Belum diuji |
-| EA09 |  | Breakout Trading Academy | [YouTube](...) | ⏳ Belum diuji |
-| EA10 |  | ... | [YouTube](...) | ⏳ Belum diuji |
+| EA03 | RSI Mean Reversion | [The Market Structure Trader](https://www.youtube.com/watch?v=4Y89S50fLds) | Done |
+| EA04 | Bollinger Bands Reversal | [René Balke](https://www.youtube.com/watch?v=Z0rQqBUyusk) | Done |
+| EA05 | MACD Momentum | [René Balke](https://www.youtube.com/watch?v=ab3JWfkUr-A) | Done |
+| EA06 | Donchian Channel Scalping | [René Balke](https://www.youtube.com/watch?v=WodHEy7zuCk) | Done |
+| EA07 | Trend Channel / Dual MA Trend Following | [René Balke](https://www.youtube.com/watch?v=vrFhMBEdUeE) | Done |
+| EA08 | Stock Mean Reversion | [René Balke](https://www.youtube.com/watch?v=1wjvOC6RBB0) | Done |
+| EA09 | Market Structure Trend Following | [René Balke](https://www.youtube.com/watch?v=mGG0nu8A9FU) | Done |
+| EA10 | AI Gold Strategy (XAUUSD) | [René Balke](https://www.youtube.com/watch?v=clNEYz_yUQY) | Done |
 
 ---
 
